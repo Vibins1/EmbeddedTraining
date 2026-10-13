@@ -1,4 +1,4 @@
-# Embedded Systems Training 🚀
+# Embedded Systems Training 
 
 Welcome to my **Embedded Systems Training Repository!**
 
@@ -6,7 +6,7 @@ This repository documents my practical learning journey in embedded systems usin
 
 My goal is to develop strong practical knowledge of embedded systems, understand how hardware and software interact, and build real-world embedded applications.
 
-## 🎯 Learning Objectives
+# Learning Objectives
 
 * Understand embedded C programming and microcontroller fundamentals.
 * Learn communication protocols such as UART, SPI, and CAN.
@@ -16,7 +16,7 @@ My goal is to develop strong practical knowledge of embedded systems, understand
 * Develop IoT applications using Blynk and Adafruit IO.
 * Understand task execution, inter-task communication, and real-time system behavior.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 * **Microcontroller:** ESP32
 * **Programming Language:** C/C++ for Arduino
@@ -28,7 +28,7 @@ My goal is to develop strong practical knowledge of embedded systems, understand
 * **IoT Platforms:** Blynk IoT, Adafruit IO
 * **Components:** RGB LED, buzzer, sensors, and communication modules
 
-## 📂 Projects
+##  Projects
 
 ### 1. ESP32 CAN Bus Communication Using MCP2515
 
@@ -78,7 +78,7 @@ Developing a temperature monitoring system that detects threshold violations and
 
 **Concepts:** Temperature sensing, threshold comparison, and embedded control logic.
 
-## 📚 What I Am Learning
+##  What I Am Learning
 
 My focus is on understanding the logic behind each program rather than simply copying code.
 
@@ -92,7 +92,7 @@ I am working toward understanding:
 * How embedded systems respond to real-time events.
 * How to debug hardware and software issues.
 
-## 🚀 Future Learning Goals
+##  Future Learning Goals
 
 * Advanced embedded C programming.
 * Interrupts, timers, and memory management.
@@ -102,13 +102,13 @@ I am working toward understanding:
 * Hardware debugging and protocol analysis.
 * Real-time embedded system development.
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an Electronics and Communication Engineering (ECE) student interested in embedded systems, microcontrollers, IoT, communication protocols, and firmware development.
 
 I use this repository to document my experiments, improve my programming skills, and build a strong foundation for a career in embedded systems.
 
-## 📌 Repository
+##  Repository
 
 Explore my projects and follow my learning journey:
 
